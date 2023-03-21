@@ -1,0 +1,128 @@
+.top,.top2,.top3,.top4,.top5,.top6,.top7,.top8{
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+.top2,.top3,.top4,.top5,.top7,.top8 {
+  background-size: cover;
+}
+.top5{
+  background-position-y: -18.75rem;
+}
+
+
+.top{
+  background-image: url("../img/lilian.jpeg");
+  height:  43.75rem;
+  width: 100%;
+}
+.top2  {
+  background-image: url("../img/cuphead-mugman.gif");
+  height: 49rem;
+  width: 100%;
+}
+.top3{
+  background-image: url("../img/miguel.jpeg");
+  height: 50rem;
+  width: 100%;
+}
+.top4  {
+  background-image: url("../img/war.gif");
+  height: 46.875rem;
+  width: 100%;
+}
+.top5  {
+  background-image: url("../img/alondra.jpeg");
+  height: 46.875rem;
+  width: 100%;
+}
+.top6  {
+  background-image: url("../img/plantas.gif");
+  height: 46.875rem;
+  width: 100%;
+}
+.top7  {
+  background-image: url("../img/moy.jpeg");
+  height: 46.875rem;
+  width: 100%;
+}
+.top8 {
+  background-image: url("../img/min.gif");
+  height: 46.875rem;
+  width: 100%;
+}
+.absolute{
+  position: absolute;
+  top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+margin: auto;
+height: 100%;
+}
+.caption0,.caption2,.caption3,.caption4,.caption5,.caption6,.caption7,.caption8{
+position: absolute;
+top: 50%;
+width: 100%;
+
+}
+.caption{
+  position: absolute;
+top: 60%;
+width: 100%;
+}
+.border{
+  padding: 18px;
+  color: #fff;
+  background-color: #111;
+  letter-spacing: 10px;
+  font-size:25px;
+}
+.border2,.border3,.border4,.border5,.border6,.border7,.border8{
+  font-size: 50px;
+  letter-spacing: 10px;
+  color: #f7f7f7;
+}
+.border8{
+  color: black;
+}
+.mid,.mid2,.bot,.mid3,.var{
+  padding:50px 80px;
+}
+.mid2,.mid3 {
+  padding:60px
+}
+
+.mid2,.bot,.var{
+  background-color: #282E34;
+}
+.mid3{
+  background-color: #fff;
+}
+
+h3{
+  text-align: center;
+  margin:20px;
+  font: 20px "Lato", sans-serif;
+  text-transform: uppercase;
+  color: #111;
+  letter-spacing: 10px;
+}
+.text{
+  text-align: center;
+}
+.text1,.text2{
+  color: #ddd;
+}
+
+body,html{
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  color: #777;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  text-align: center;
+}
